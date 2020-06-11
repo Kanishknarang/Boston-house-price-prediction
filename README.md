@@ -1,5 +1,5 @@
 
-# Boston-house-price-predict
+# Boston-house-price-prediction
 
 
 
